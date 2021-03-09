@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/sc2021/static/css/main.76c993cc.chunk.css",
+    "main.js": "/sc2021/static/js/main.e9b49c8b.chunk.js",
+    "main.js.map": "/sc2021/static/js/main.e9b49c8b.chunk.js.map",
+    "runtime-main.js": "/sc2021/static/js/runtime-main.d2f0f93c.js",
+    "runtime-main.js.map": "/sc2021/static/js/runtime-main.d2f0f93c.js.map",
+    "static/js/2.b7e31094.chunk.js": "/sc2021/static/js/2.b7e31094.chunk.js",
+    "static/js/2.b7e31094.chunk.js.map": "/sc2021/static/js/2.b7e31094.chunk.js.map",
+    "index.html": "/sc2021/index.html",
+    "static/css/main.76c993cc.chunk.css.map": "/sc2021/static/css/main.76c993cc.chunk.css.map",
+    "static/js/2.b7e31094.chunk.js.LICENSE.txt": "/sc2021/static/js/2.b7e31094.chunk.js.LICENSE.txt",
+    "static/media/17sdg.19cb8ff2.png": "/sc2021/static/media/17sdg.19cb8ff2.png",
+    "static/media/index.css": "/sc2021/static/media/Copy of GoogleSans-Regular-v1.27.19c78e33.ttf",
+    "static/media/Solution_Challange_2021_Lockup.a9817054.png": "/sc2021/static/media/Solution_Challange_2021_Lockup.a9817054.png",
+    "static/media/Wavy_Bus-35_Single-03.f83db7b6.jpg": "/sc2021/static/media/Wavy_Bus-35_Single-03.f83db7b6.jpg",
+    "static/media/sdglogo.8014548f.png": "/sc2021/static/media/sdglogo.8014548f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d2f0f93c.js",
+    "static/js/2.b7e31094.chunk.js",
+    "static/css/main.76c993cc.chunk.css",
+    "static/js/main.e9b49c8b.chunk.js"
+  ]
+}
