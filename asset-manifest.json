@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/sc2021/static/css/main.43af4bee.chunk.css",
-    "main.js": "/sc2021/static/js/main.01231373.chunk.js",
-    "main.js.map": "/sc2021/static/js/main.01231373.chunk.js.map",
+    "main.js": "/sc2021/static/js/main.e41ef2b1.chunk.js",
+    "main.js.map": "/sc2021/static/js/main.e41ef2b1.chunk.js.map",
     "runtime-main.js": "/sc2021/static/js/runtime-main.d2f0f93c.js",
     "runtime-main.js.map": "/sc2021/static/js/runtime-main.d2f0f93c.js.map",
     "static/js/2.6cd19ccc.chunk.js": "/sc2021/static/js/2.6cd19ccc.chunk.js",
@@ -15,13 +15,13 @@
     "static/media/DSC Logo [New Guidelines].1ff5e0e5.png": "/sc2021/static/media/DSC Logo [New Guidelines].1ff5e0e5.png",
     "static/media/Solution_Challange_2021_Lockup.a9817054.png": "/sc2021/static/media/Solution_Challange_2021_Lockup.a9817054.png",
     "static/media/Wavy_Bus-35_Single-03.f83db7b6.jpg": "/sc2021/static/media/Wavy_Bus-35_Single-03.f83db7b6.jpg",
-    "static/media/poster.da1eb830.jpeg": "/sc2021/static/media/poster.da1eb830.jpeg",
+    "static/media/poster.34c84369.jpeg": "/sc2021/static/media/poster.34c84369.jpeg",
     "static/media/sdglogo.8014548f.png": "/sc2021/static/media/sdglogo.8014548f.png"
   },
   "entrypoints": [
     "static/js/runtime-main.d2f0f93c.js",
     "static/js/2.6cd19ccc.chunk.js",
     "static/css/main.43af4bee.chunk.css",
-    "static/js/main.01231373.chunk.js"
+    "static/js/main.e41ef2b1.chunk.js"
   ]
 }
