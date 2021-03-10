@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/sc2021/static/css/main.3ed9b443.chunk.css",
-    "main.js": "/sc2021/static/js/main.0e431f5d.chunk.js",
-    "main.js.map": "/sc2021/static/js/main.0e431f5d.chunk.js.map",
+    "main.css": "/sc2021/static/css/main.43af4bee.chunk.css",
+    "main.js": "/sc2021/static/js/main.2a40f99b.chunk.js",
+    "main.js.map": "/sc2021/static/js/main.2a40f99b.chunk.js.map",
     "runtime-main.js": "/sc2021/static/js/runtime-main.d2f0f93c.js",
     "runtime-main.js.map": "/sc2021/static/js/runtime-main.d2f0f93c.js.map",
     "static/js/2.6cd19ccc.chunk.js": "/sc2021/static/js/2.6cd19ccc.chunk.js",
     "static/js/2.6cd19ccc.chunk.js.map": "/sc2021/static/js/2.6cd19ccc.chunk.js.map",
     "index.html": "/sc2021/index.html",
-    "static/css/main.3ed9b443.chunk.css.map": "/sc2021/static/css/main.3ed9b443.chunk.css.map",
+    "static/css/main.43af4bee.chunk.css.map": "/sc2021/static/css/main.43af4bee.chunk.css.map",
     "static/js/2.6cd19ccc.chunk.js.LICENSE.txt": "/sc2021/static/js/2.6cd19ccc.chunk.js.LICENSE.txt",
     "static/media/17sdg.19cb8ff2.png": "/sc2021/static/media/17sdg.19cb8ff2.png",
     "static/media/index.css": "/sc2021/static/media/Copy of GoogleSans-Regular-v1.27.19c78e33.ttf",
@@ -21,7 +21,7 @@
   "entrypoints": [
     "static/js/runtime-main.d2f0f93c.js",
     "static/js/2.6cd19ccc.chunk.js",
-    "static/css/main.3ed9b443.chunk.css",
-    "static/js/main.0e431f5d.chunk.js"
+    "static/css/main.43af4bee.chunk.css",
+    "static/js/main.2a40f99b.chunk.js"
   ]
 }
