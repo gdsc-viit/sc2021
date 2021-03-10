@@ -1,7 +1,7 @@
 import { Link } from "react-router-dom";
 import logo from "../resources/17sdg.png";
 import sdglogo from "../resources/sdglogo.png";
-
+import logodsc from '../resources/DSC Logo [New Guidelines].png'
 export const ProblemStatements = () => {
     return (
         <>
@@ -14,6 +14,16 @@ export const Overview = () => {
     return (
         <section>
             <div className="container">
+                <div className="row m-3" >
+                    <div className="col-md-6">
+                        <img style={{
+                            width: '100%'
+                        }} src={logodsc} />
+                    </div>
+                    <div className="col-md-6 d-flex justify-content-left">
+                        <h1 className="m-3">2021 Solution Challenge</h1>
+                    </div>
+                </div>
                 <img
                     style={{
                         alignSelf: "center",

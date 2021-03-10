@@ -8,7 +8,7 @@ import {
 import { Home } from './screens/home'
 import { NeedHelp } from './screens/NeedHelp'
 import { ProblemStatements } from './screens/problemstatements'
-
+import { Contact } from './screens/contact'
 export const App = () => {
     return (<Router>
         <Routing />
@@ -19,7 +19,7 @@ export const App = () => {
 
 
 export const Routing = () => {
-    return (
+    return (<>
         <Switch>
             <Route path="/NeedHelp">
                 <NeedHelp />
@@ -27,10 +27,14 @@ export const Routing = () => {
             <Route path="/ProblemStatements">
                 <ProblemStatements />
             </Route>
+            <Route path="/Contact">
+                <Contact />
+            </Route>
             <Route path="/">
                 <Home />
             </Route>
         </Switch>
+    </>
     )
 }
 

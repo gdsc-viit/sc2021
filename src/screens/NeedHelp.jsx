@@ -1,4 +1,4 @@
-
+import logo from '../resources/DSC Logo [New Guidelines].png'
 
 export const NeedHelp = () => {
     return (
@@ -8,20 +8,19 @@ export const NeedHelp = () => {
     )
 }
 
-export const contact = () => {
-    return (<>contact</>)
-}
-export const faq = () => {
-    return (<>faq</>)
-}
-
-
 export const Resources = () => {
     return (
         <div className="container">
-            <h1>2021 Solution Challenge</h1>
-            <br />
-            <br />
+            <div className="row m-3" >
+                <div className="col-md-6">
+                    <img style={{
+                        width: '100%'
+                    }} src={logo} />
+                </div>
+                <div className="col-md-6 d-flex justify-content-left">
+                    <h1 className="m-3">2021 Solution Challenge</h1>
+                </div>
+            </div>
             <br />
             <div className="row ">
                 <div className="col-md-6 col-sm-12 d-flex justify-content-center p-4">

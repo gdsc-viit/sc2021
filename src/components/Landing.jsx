@@ -69,8 +69,11 @@ export const Landing = () => {
                     minWidth: '8.5rem',
                     fontSize: '1.5rem'
                 }} target="_blank" href="https://sdgs.un.org/2030agenda" className="btn">UN agenda</a>
+                <Link style={{
+                    minWidth: '8.5rem',
+                    fontSize: '1.5rem'
+                }} to="/Contact" className="btn">Contact</Link>
             </div>
-
         </section >
     )
 }
