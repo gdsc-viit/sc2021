@@ -63,10 +63,10 @@ export const Overview = () => {
                             United Nations Member States aim to end poverty, ensure
                             prosperity, and protect the planet.
               <br />
-                            <Link className="btn" to="https://developers.google.com/community/dsc-solution-challenge/UN-goals" target="_blank">
-                                Problem Statements</Link>&nbsp;&nbsp;&nbsp;
-                            <Link className="btn" to="https://developers.google.com/community/dsc-solution-challenge" target="_blank">
-                                Judging criteria</Link>
+                            <a className="btn" href="https://developers.google.com/community/dsc-solution-challenge/UN-goals" target="_blank">
+                                Problem Statements</a>&nbsp;&nbsp;&nbsp;
+                            <a className="btn" href="https://developers.google.com/community/dsc-solution-challenge" target="_blank">
+                                Judging criteria</a>
                         </p>
                     </div>
                 </div>
