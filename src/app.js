@@ -10,7 +10,7 @@ import { NeedHelp } from './screens/NeedHelp'
 import { ProblemStatements } from './screens/problemstatements'
 import { Contact } from './screens/contact'
 export const App = () => {
-    return (<Router>
+    return (<Router basename={process.env.PUBLIC_URL}>
         <Routing />
     </Router>)
 }

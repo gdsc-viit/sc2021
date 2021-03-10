@@ -117,3 +117,7 @@ section {
   padding: 10px;
   box-shadow: 5px 10px var(--btn-primary);
 }
+
+hr {
+  color: var(--bg-primary);
+}

@@ -22,6 +22,9 @@ export const Resources = () => {
                 </div>
             </div>
             <br />
+            <br />
+            <h2>Resources for Teams</h2>
+            <hr />
             <div className="row ">
                 <div className="col-md-6 col-sm-12 d-flex justify-content-center p-4">
                     <iframe frameBorder="0" allowFullScreen="1"
@@ -79,6 +82,86 @@ export const Resources = () => {
                     <p>
                         In this video, we will pick a sample solution and walk through the journey to building a successful project.
                     </p>
+                </div>
+            </div>
+            <br />
+            <br />
+            <h2>How do you get started ?</h2>
+            <hr />
+            <br />
+            <br />
+            <div className="row ">
+                <div className="col-md-6 col-sm-12">
+                    <h3>1. IDENTIFYING A PROBLEM</h3>
+                    <p>
+                        When building any project, the most important step is identifying a true problem -- something that people truly feel. A lot of people don’t spend enough time here because, honestly, it’s difficult and it’s time-consuming. Like anything else, though, the hardest part is getting started, so here are three methods to help begin the process:
+                        <li>
+                            <span>Interview students and professors on your campus to identify their problems.</span>
+                        </li>
+                        <li>
+                            <span>Approach local businesses or NGOs and ask them how you can help.</span>
+                        </li>
+                        <li>
+                            <span>Speak with people in your local community to find a shared problem you could solve.</span>
+                        </li>
+
+                    </p>
+                </div>
+                <div className="col-md-6 col-sm-12 d-flex justify-content-center p-4">
+                    <iframe frameBorder="0" allowFullScreen="1"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                        width="500" height="315"
+                        src="https://www.youtube.com/embed/65jliGmA5iU?autohide=1&amp;showinfo=0&amp;video-id=65jliGmA5iU&amp;enablejsapi=1&amp;widgetid=29"
+                        dataTitle="YouTube video player"></iframe>
+                </div>
+            </div>
+            <br />
+            <br />
+            <div className="row ">
+                <div className="col-md-6 col-sm-12 d-flex justify-content-center p-4">
+                    <iframe frameBorder="0" allowFullScreen="1"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                        width="500" height="315"
+                        src="https://www.youtube.com/embed/JahM0IihcPQ?autohide=1&amp;showinfo=0&amp;video-id=JahM0IihcPQ&amp;enablejsapi=1&amp;widgetid=29"
+                        dataTitle="YouTube video player"></iframe>
+                </div>
+                <div className="col-md-6 col-sm-12">
+                    <h3>2. IDENTIFY A SOLUTION </h3>
+                    <p>
+                        One popular method we can use to identify our solution is an exercise developed at GV, formerly known as Google Ventures, called The Design Sprint. Usually done as a 5-day exercise, The Design Sprint is a flexible framework for solving problems through designing, prototyping, and testing ideas with users. It allows you and your team to validate ideas before going through all of the energy of building a product.</p>
+                </div>
+            </div>
+            <br />
+            <br />
+            <div className="row ">
+                <div className="col-md-6 col-sm-12">
+                    <h3>3. DESIGN THE INTERFACE </h3>
+                    <p>
+                        Interface design has two parts: user experience and user interface -- UX and UI for short. UX covers how people will use the solution while UI covers what the solution looks and feels like. Both are very important because they dictate how your users will interact.
+                    </p>
+                </div>
+                <div className="col-md-6 col-sm-12 d-flex justify-content-center p-4">
+                    <iframe frameBorder="0" allowFullScreen="1"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                        width="500" height="315"
+                        src="https://www.youtube.com/embed/6F4CqIHFg64?autohide=1&amp;showinfo=0&amp;video-id=6F4CqIHFg64&amp;enablejsapi=1&amp;widgetid=29"
+                        dataTitle="YouTube video player"></iframe>
+                </div>
+            </div>
+            <br />
+            <br />
+            <div className="row ">
+                <div className="col-md-6 col-sm-12 d-flex justify-content-center p-4">
+                    <iframe frameBorder="0" allowFullScreen="1"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                        width="500" height="315"
+                        src="https://www.youtube.com/embed/ckBWsrBNfrU?autohide=1&amp;showinfo=0&amp;video-id=ckBWsrBNfrU&amp;enablejsapi=1&amp;widgetid=29"
+                        dataTitle="YouTube video player"></iframe>
+                </div>
+                <div className="col-md-6 col-sm-12">
+                    <h3>4. DESIGN THE TECHNOLOGY </h3>
+                    <p>
+                        Most applications have what’s called a “front-end” or “client” -- this includes the mobile devices, laptop or desktop computers, tablets, and smart-watches we know and use. There’s also another side to the equation, which is called the “back-end” or “server,” and most backends have multiple parts, which can mostly be bucketed into “Running Code,” “Data Storage,” and “Other Services.” In this step, you define what tools you'll be using to build your solution.</p>
                 </div>
             </div>
             <div style={{
