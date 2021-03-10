@@ -20,9 +20,6 @@ export const App = () => {
     )
 }
 
-
-
-
 export const Routing = () => {
     return (<>
         <Switch>
@@ -38,7 +35,6 @@ export const Routing = () => {
             <Route>
                 <Home />
             </Route>
-
         </Switch>
     </>
     )

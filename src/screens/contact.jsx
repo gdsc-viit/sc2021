@@ -35,11 +35,11 @@ export const Contact = () => {
                             fontSize: '1.5rem'
                         }} target="_blank" href="https://chat.whatsapp.com/KkJavWvebgSBBtFnR3Noyr" className="btn">WhatsApp</a>
                 &nbsp; &nbsp;
-                <Link style={{
+                <a style={{
                             width: '8.5rem',
                             height: '3.5rem',
                             fontSize: '1.5rem'
-                        }} to={{ pathname: 'mailto:dscviit@gmail.com' }} target="_blank" className="btn">Mail</Link>
+                        }} href='mailto:dscviit@gmail.com' target="_blank" className="btn">Mail</a>
                 &nbsp; &nbsp;
                 </div>
                     <div className="col-md-7  d-flex justify-content-center">
@@ -49,17 +49,17 @@ export const Contact = () => {
                             fontSize: '1.5rem'
                         }} target="_blank" href="https://twitter.com/dscviit" target="_blank" className="btn">Twitter</a>
                 &nbsp; &nbsp;
-                        <Link style={{
+                        <a style={{
                             width: '8.5rem',
                             height: '3.5rem',
                             fontSize: '1.5rem'
-                        }} to={{ pathname: 'https://medium.com/@dscviit' }} target="_blank" className="btn">Medium</Link>
+                        }} href='https://medium.com/@dscviit' target="_blank" className="btn">Medium</a>
                 &nbsp; &nbsp;
-                <Link style={{
+                <a style={{
                             width: '8.5rem',
                             height: '3.5rem',
                             fontSize: '1.5rem'
-                        }} to={{ pathname: 'https://github.com/dsc-viit' }} target="_blank" className="btn">Github</Link>
+                        }} href='https://github.com/dsc-viit' target="_blank" className="btn">Github</a>
                 &nbsp; &nbsp;
                     </div>
                 </div>
