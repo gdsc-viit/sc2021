@@ -14,7 +14,7 @@ export const Contact = () => {
                         }} src={logo} />
                     </div>
                     <div className="col-md-6 d-flex justify-content-left">
-                        <h1 className="m-3">2021 Solution Challenge</h1>
+                        <h1 className="m-3">Hack2LiveOn</h1>
                     </div>
                 </div>
                 <div className="row" >

@@ -21,7 +21,7 @@ export const Overview = () => {
                         }} src={logodsc} />
                     </div>
                     <div className="col-md-6 d-flex justify-content-left">
-                        <h1 className="m-3">2021 Solution Challenge</h1>
+                        <h1 className="m-3">Hack2LiveOn</h1>
                     </div>
                 </div>
                 <img
@@ -63,7 +63,7 @@ export const Overview = () => {
                             United Nations Member States aim to end poverty, ensure
                             prosperity, and protect the planet.
               <br />
-                            <a className="btn" href="https://developers.google.com/community/dsc-solution-challenge/UN-goals" target="_blank">
+                            <a className="btn" href="https://docs.google.com/document/d/161FXCmjx11s7fiE4JzFhw78T02JvGkafyAIOk94Tl9U/edit?usp=sharing" target="_blank">
                                 Problem Statements</a>&nbsp;&nbsp;&nbsp;
                             <a className="btn" href="https://developers.google.com/community/dsc-solution-challenge" target="_blank">
                                 Judging criteria</a>

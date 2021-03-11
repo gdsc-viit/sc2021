@@ -8,14 +8,17 @@ export const Landing = () => {
     return (
         <section>
             <div className="row" style={{
-                paddingTop: '8vh',
+                paddingTop: '3vh',
                 paddingBottom: '30px',
                 width: '90vw',
                 margin: 'auto'
             }} >
                 <div className="col-md-8 ">
+                    <h1 style={{
+                        margin: 'auto'
+                    }}>Hack2LiveOn</h1>
                     <img style={{
-                        width: '90%'
+                        width: '80%'
                     }} src={logo0} />
                 </div>
                 <div className="col-sm-auto col-md-4">

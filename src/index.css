@@ -30,7 +30,7 @@
   --bg-primary: #fff;
   --bg-secondary: #f5f5f5;
   --text-primary: #000;
-  --text-secondary: #202124;
+  --text-secondary: #202124c7;
   --text-tertiary: #4c4c4c;
   --btn-primary: #0005df;
   --btn-secondary: #fff;
@@ -41,11 +41,11 @@
 p {
   color: var(--text-tertiary);
 }
-h1,
-h2 {
-  color: var(--btn-primary);
-  font-family: GoogleSans-BoldItalic;
+h1 {
+  color: var(--text-primary);
+  font-family: GoogleSans-Bold;
 }
+h2,
 h3,
 h4 {
   color: var(--text-secondary);
