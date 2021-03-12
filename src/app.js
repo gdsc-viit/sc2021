@@ -10,8 +10,6 @@ import { NeedHelp } from './screens/NeedHelp'
 import { ProblemStatements } from './screens/problemstatements'
 import { Contact } from './screens/contact'
 
-export var myLocation = '/';
-
 export const App = () => {
     return (
         <Router basename={process.env.PUBLIC_URL}>
